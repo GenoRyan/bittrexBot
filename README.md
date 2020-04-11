@@ -1,0 +1,2 @@
+# bittrexBot
+Bittrex trading bot
